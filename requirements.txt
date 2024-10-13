@@ -1,9 +1,6 @@
 
-scikit-learn==1.2.2
+scikit-learn
 pandas
 seaborn
-matplotlib.pyplot
-GridSearchCV
-Pipeline
-StandardScaler
-XGBClassifier
+matplotlib
+xgboost
